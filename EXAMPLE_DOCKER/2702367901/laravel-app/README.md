@@ -18,3 +18,5 @@
     ```bash
     docker compose down -v
     ```
+
+6. **Thanks**
